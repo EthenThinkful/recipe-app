@@ -8,9 +8,7 @@ Recipe CRUD app used to manage your favorite recipes.
 ### 1. Functionality
 
 - Create Recipe Entry
-
 - Read List of Recipes
-
 - Delete a Recipe
 
 ### 2. React Code Organization
